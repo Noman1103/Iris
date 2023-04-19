@@ -1,0 +1,73 @@
+body{
+    background-image: url(https://eau-de-paris.carl-source.com/gmaoCS02/cb106898110/themes/facility/resources/interface/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position : center;
+    background-color: #b6b6b6;
+}
+div.tete{
+    text-align: center;
+    background-color: rgb(164, 109, 89);
+    color: white;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+h2.li{
+    font-size: 40px;
+    margin-right: 550px;
+}
+a.a{
+    margin-right: 50px;
+}
+table{
+    width: 60%;
+    margin: 40px auto;
+    border-radius: 10px;
+    background-color: aliceblue;
+    text-align: center;
+    float: right; 
+    margin-right: 100px;
+    border-collapse: collapse;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+th{
+    background-color: darkblue;
+    color: aliceblue;
+    font-size: 20px;
+    border-radius: 5px;
+}
+td{
+    border: 1px solid silver;
+}
+div.form{
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    margin-right: 125px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    position: fixed;
+    margin-left: 50px;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-size: 40px;
+}
+
+form.modif{
+    background-color: cornflowerblue;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+  
+}
